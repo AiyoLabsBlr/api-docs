@@ -19,6 +19,7 @@ includes:
   - hsm_dynamic_cta_doc
   - session_doc
   - history_doc
+  - otp_service
   - errors
 
 search: true
