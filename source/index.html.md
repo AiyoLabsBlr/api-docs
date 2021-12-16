@@ -20,6 +20,7 @@ includes:
   - session_doc
   - history_doc
   - otp_service
+  - webhooks
   - errors
 
 search: true
