@@ -115,7 +115,7 @@ response.json()
 
 `POST api/v2/user/webhook`
 
-#### Body Parameters
+### Body Parameters
 
 <table>
 <thead>
@@ -252,7 +252,7 @@ response.json()
 
 `POST api/v2/user/webhook/update`
 
-#### Body Parameters
+### Body Parameters
 
 <table>
 <thead>
