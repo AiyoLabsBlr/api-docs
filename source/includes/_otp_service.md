@@ -132,7 +132,7 @@ response.json()
 
 `POST v1/send-otp`
 
-#### Body Parameters
+### Body Parameters
 
 <table>
 <thead>
@@ -304,7 +304,7 @@ response.json()
 
 `POST v1/validate-otp`
 
-#### Body Parameters
+### Body Parameters
 
 <table>
 <thead>

@@ -21,6 +21,8 @@ includes:
   - history_doc
   - otp_service
   - webhooks
+  - campaign
+  - lists
   - errors
 
 search: true
