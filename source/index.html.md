@@ -23,6 +23,7 @@ includes:
   - webhooks
   - campaign
   - lists
+  - blacklist
   - errors
 
 search: true
